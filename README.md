@@ -1,34 +1,27 @@
-Below is a sample **README.md** structure that looks a bit nicer while retaining all the essential information. Feel free to adjust headings, descriptions, or add images/badges as you see fit!
-
----
-
 # Interalyze
 
 **Interalyze** is an interview analytics platform that provides recruiters with data-driven insights into candidate performance by analyzing both verbal and non-verbal cues. 
 
 ## How It Works
 
-1. **Interview Recording**  
-   The platform records online video interviews.
-
-2. **Speech-to-Text**  
+1. **Speech-to-Text**  
    The speech is converted to text for natural language processing.
 
-3. **Text Analysis**  
+2. **Text Analysis**  
    - **Stress Levels** based on speech patterns  
    - **Personality & Confidence** indicators
 
-4. **Visual Cues**  
+3. **Visual Cues**  
    - **Attention Monitoring** by tracking eye gaze and head movement  
    - **Engagement Levels** throughout the conversation
 
-5. **Comprehensive Report**  
+4. **Comprehensive Report**  
    Combines NLP results and computer vision analysis to generate an insightful report for recruiters on the candidate’s fit.
 
 ## Features
 
 - **Verbal Analysis**  
-  Examines transcripts for stress markers, relevance, and confidence.
+  Examines transcripts for stress markers, and confidence.
 
 - **Non-Verbal Analysis**  
   Monitors eye movements and head position for attention and engagement levels.
