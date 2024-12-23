@@ -16,7 +16,6 @@ Below is a sample **README.md** structure that looks a bit nicer while retaining
 
 3. **Text Analysis**  
    - **Stress Levels** based on speech patterns  
-   - **Answer Relevance** to questions  
    - **Personality & Confidence** indicators
 
 4. **Visual Cues**  
@@ -48,6 +47,6 @@ Below is a sample **README.md** structure that looks a bit nicer while retaining
 ## Resources
 
 - [Project Specification Document](https://docs.google.com/document/d/1lrhFkCBxjO0eyjGREgX2m-HVeP1crzlr/edit?usp=drive_link&ouid=110817569510858297386&rtpof=true&sd=true)  
-- [Analysis and Requirement Report](https://docs.google.com/document/d/1ZlHLuBVzbL5Km3kmlUMWoiQv-1ZglFfBQuNJ5vKonfE/edit?tab=t.0)
+- [Analysis and Requirement Document](https://docs.google.com/document/d/1ZlHLuBVzbL5Km3kmlUMWoiQv-1ZglFfBQuNJ5vKonfE/edit?tab=t.0)
 
 ---
