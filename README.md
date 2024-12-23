@@ -1,16 +1,53 @@
-Interalyze is an interview analytics platform that offers recruiters data-driven insights into the performance of candidates by analyzing verbal and non-verbal cues from the interviews. The tool converts online video interviews to text first, after which the language can be examined for signs of stress, answer relevance, personality, and confidence levels. While this is in process, computer vision will monitor attention by eye gaze and head movement to measure the engagement levels of the candidate during the conversation. Interalyze uses natural language processing, joined with computer vision, to deliver analyses for each interview that contain aspects such as stress levels based on speech patterns, attention levels from visual cues, and relevance of responses to questions. This analytics comes in insights for recruiters on the fit of a candidate for the position.
+Below is a sample **README.md** structure that looks a bit nicer while retaining all the essential information. Feel free to adjust headings, descriptions, or add images/badges as you see fit!
 
-[Project Specification Document](https://docs.google.com/document/d/1lrhFkCBxjO0eyjGREgX2m-HVeP1crzlr/edit?usp=drive_link&ouid=110817569510858297386&rtpof=true&sd=true)
+---
 
- 
-[Analysis and Requirement Report](https://docs.google.com/document/d/1ZlHLuBVzbL5Km3kmlUMWoiQv-1ZglFfBQuNJ5vKonfE/edit?tab=t.0)
+# Interalyze
 
-  Atilla Alp Yavuz
-  
-  Kemal Sarper Şahin
-  
-  Öykü Elis Türegün
-  
-  Tolgahan Arslan
-  
-  Tolga Artun Koçak
+**Interalyze** is an interview analytics platform that provides recruiters with data-driven insights into candidate performance by analyzing both verbal and non-verbal cues. 
+
+## How It Works
+
+1. **Interview Recording**  
+   The platform records online video interviews.
+
+2. **Speech-to-Text**  
+   The speech is converted to text for natural language processing.
+
+3. **Text Analysis**  
+   - **Stress Levels** based on speech patterns  
+   - **Answer Relevance** to questions  
+   - **Personality & Confidence** indicators
+
+4. **Visual Cues**  
+   - **Attention Monitoring** by tracking eye gaze and head movement  
+   - **Engagement Levels** throughout the conversation
+
+5. **Comprehensive Report**  
+   Combines NLP results and computer vision analysis to generate an insightful report for recruiters on the candidate’s fit.
+
+## Features
+
+- **Verbal Analysis**  
+  Examines transcripts for stress markers, relevance, and confidence.
+
+- **Non-Verbal Analysis**  
+  Monitors eye movements and head position for attention and engagement levels.
+
+- **Data-Driven Insights**  
+  Provides clear metrics on candidate performance, helping recruiters make informed decisions.
+
+## Authors
+
+- **Atilla Alp Yavuz**  
+- **Kemal Sarper Şahin**  
+- **Öykü Elis Türegün**  
+- **Tolgahan Arslan**  
+- **Tolga Artun Koçak**
+
+## Resources
+
+- [Project Specification Document](https://docs.google.com/document/d/1lrhFkCBxjO0eyjGREgX2m-HVeP1crzlr/edit?usp=drive_link&ouid=110817569510858297386&rtpof=true&sd=true)  
+- [Analysis and Requirement Report](https://docs.google.com/document/d/1ZlHLuBVzbL5Km3kmlUMWoiQv-1ZglFfBQuNJ5vKonfE/edit?tab=t.0)
+
+---
