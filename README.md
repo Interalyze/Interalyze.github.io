@@ -1,45 +1,52 @@
-# Interalyze
+# Interalyze - Interview Analytics Platform
 
-**Interalyze** is an interview analytics platform that provides recruiters with data-driven insights into candidate performance by analyzing both verbal and non-verbal cues. 
+**Interalyze** is an interview analytics platform that provides recruiters with data-driven insights into candidate performance by analyzing both verbal and non-verbal cues.
 
-## How It Works
+---
+
+## 🚀 **How It Works**
 
 1. **Speech-to-Text**  
-   The speech is converted to text for natural language processing.
+   Converts speech to text for Natural Language Processing (NLP).  
 
 2. **Text Analysis**  
-   - **Stress Levels** based on speech patterns  
-   - **Big 5 Personality** analysis
-   - **Skills Extraction** 
+   - **Stress Levels:** Analyzes patterns to detect stress.  
+   - **Big 5 Personality Analysis:** Assesses personality traits.  
+   - **Skills Extraction:** Identifies candidate skills.  
 
 3. **Visual Cues**  
-   - **Attention Metrics** by tracking eye gaze and head movement  
-   - **Confidence Analysis** from facial expressions
+   - Tracks **eye gaze**, **head movements**, and **facial expressions** to measure attention and confidence.  
 
-4. **Comprehensive Report**  
-   Combines NLP results and computer vision analysis to generate an insightful report for recruiters on the candidate’s fit.
+4. **Comprehensive Reports**  
+   Merges text and visual analyses into a detailed report for recruiters.  
 
-## Features
+---
 
-- **Verbal Analysis**  
-  Examines transcripts for stress markers, personality analysis and extracting skills.
+## 🌟 **Features**
 
-- **Non-Verbal Analysis**  
-  Monitors eye movements, facial expressions and head position for attention and engagement levels.
+- **Verbal Analysis:** NLP-based analysis of stress markers, personality, and skills.  
+- **Non-Verbal Analysis:** Tracks attention and engagement via visual cues.  
+- **Data-Driven Insights:** Provides metrics to help recruiters make better decisions.  
 
-- **Data-Driven Insights**  
-  Provides clear metrics on candidate performance, helping recruiters make informed decisions.
+---
 
-## Authors
+## 📂 **Team Members**
 
 - **Atilla Alp Yavuz**  
 - **Kemal Sarper Şahin**  
-- **Öykü Elis Türegün 21902976** [Logbook](https://docs.google.com/document/d/1VMpCszfQ8tbjRZJJ_wbWMVnX90_HpGg-jRi-Ecivehw/edit?usp=sharing)
+- **Öykü Elis Türegün** - [Logbook](https://docs.google.com/document/d/1VMpCszfQ8tbjRZJJ_wbWMVnX90_HpGg-jRi-Ecivehw/edit?usp=sharing)  
 - **Tolgahan Arslan**  
-- **Tolga Artun Koçak**
+- **Tolga Artun Koçak**  
 
-## Resources
+---
+
+## 📄 **Resources**
 
 - [Project Specification Document](https://docs.google.com/document/d/1lrhFkCBxjO0eyjGREgX2m-HVeP1crzlr/edit?usp=drive_link&ouid=110817569510858297386&rtpof=true&sd=true)  
-- [Analysis and Requirement Document](https://docs.google.com/document/d/1ZlHLuBVzbL5Km3kmlUMWoiQv-1ZglFfBQuNJ5vKonfE/edit?tab=t.0)
+- [Analysis and Requirement Document](https://docs.google.com/document/d/1ZlHLuBVzbL5Km3kmlUMWoiQv-1ZglFfBQuNJ5vKonfE/edit?tab=t.0)  
+
 ---
+
+## 📧 **Contact Us**
+
+Email us at **[interalyze@gmail.com](mailto:interalyze@gmail.com)**.  
