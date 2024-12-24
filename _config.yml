@@ -1,3 +1,66 @@
 theme: minima
-title: Interalyze
-description: interalyze@gmail.com
+
+# Site Configuration
+
+# Title and Description
+
+site_title: Interalyze
+site_description: "Interalyze - An AI-driven interview analytics platform providing data insights into candidate performance."
+contact_email: interalyze@gmail.com
+
+# Authors Section
+
+authors:
+  - name: Atilla Alp Yavuz
+    role: Developer
+  - name: Kemal Sarper Şahin
+    role: Developer
+  - name: Öykü Elis Türegün
+    id: 21902976
+    role: Developer
+    logbook: https://docs.google.com/document/d/1VMpCszfQ8tbjRZJJ_wbWMVnX90_HpGg-jRi-Ecivehw/edit?usp=sharing
+  - name: Tolgahan Arslan
+    role: Developer
+  - name: Tolga Artun Koçak
+    role: Developer
+
+# Navigation Menu
+
+nav:
+  - title: Home
+    url: /index.html
+  - title: Features
+    url: /features.html
+  - title: Reports
+    url: /reports.html
+  - title: Resources
+    url: /resources.html
+  - title: Team
+    url: /team.html
+
+# Links to Reports and Resources
+
+reports:
+  - title: Project Specification Document
+    url: https://docs.google.com/document/d/1lrhFkCBxjO0eyjGREgX2m-HVeP1crzlr/edit?usp=drive_link&ouid=110817569510858297386&rtpof=true&sd=true
+  - title: Analysis and Requirement Document
+    url: https://docs.google.com/document/d/1ZlHLuBVzbL5Km3kmlUMWoiQv-1ZglFfBQuNJ5vKonfE/edit?tab=t.0
+
+# Footer Configuration
+
+footer:
+  email: interalyze@gmail.com
+  copyright: "2024 Interalyze Team. All rights reserved."
+
+# Social Media Links
+
+social:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/interalyze
+  - platform: GitHub
+    url: https://github.com/Interalyze
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
