@@ -34,7 +34,7 @@
 
 - **Atilla Alp Yavuz**  
 - **Kemal Sarper Şahin**  
-- **Öykü Elis Türegün 21902976** **[Logbook](https://docs.google.com/document/d/1VMpCszfQ8tbjRZJJ_wbWMVnX90_HpGg-jRi-Ecivehw/edit?usp=sharing)
+- **Öykü Elis Türegün 21902976** [Logbook](https://docs.google.com/document/d/1VMpCszfQ8tbjRZJJ_wbWMVnX90_HpGg-jRi-Ecivehw/edit?usp=sharing)
 - **Tolgahan Arslan**  
 - **Tolga Artun Koçak**
 
