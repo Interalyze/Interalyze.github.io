@@ -35,14 +35,19 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 18px;
-  margin-bottom: 10px;
+  flex-wrap: nowrap;
+  gap: 12px;
+  flex-shrink: 1;
+  max-width: 90%;
+  margin: 0 auto;
 }
 
 .logo-title img {
-  width: 160px;
+  width: 120px;
+  max-width: 30vw;
   height: auto;
 }
+
 
 
 header h1 {
@@ -147,6 +152,28 @@ header h1 {
       color: #d1d5db;
       background: #1A1365;
       margin-top: 60px;
+    }
+    @media (max-width: 480px) {
+      .logo-title {
+        gap: 8px;
+        flex-direction: row;
+      }
+
+      .logo-title img {
+        width: 90px;
+      }
+
+      header h1 {
+        font-size: 2.8rem;
+      }
+
+      .slogan {
+        font-size: 1.4rem;
+      }
+
+      .sub-slogan {
+        font-size: 1.2rem;
+      }
     }
   </style>
 </head>
